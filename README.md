@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leonardo Trujillo</h1>
 <h3 align="center">Senior Frontend Developer passionate about crafting high-performance and high-quality web and mobile experiences</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOhwOQ3M4yFqY/giphy.gif" width="300" alt="coding animated" />
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
