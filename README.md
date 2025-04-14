@@ -36,6 +36,29 @@ I've led the development of **20+ web and mobile apps**, improving load times by
 ---
 
 ### 🧠 Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+</div>
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -52,6 +75,12 @@ I've led the development of **20+ web and mobile apps**, improving load times by
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
+</picture>
 
 ### 📈 GitHub Stats
 
@@ -75,10 +104,6 @@ I've led the development of **20+ web and mobile apps**, improving load times by
 - 🎯 I love optimizing complex user flows and interfaces.
 - 🌱 Currently exploring **Elixir** and functional backend development.
 - 🧪 Passionate about testing, clean architecture, and collaborative environments.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8P2w9CGBFuD2xpH2tE/giphy.gif" width="300" alt="fun frontend dev" />
-</p>
 
 ---
 
