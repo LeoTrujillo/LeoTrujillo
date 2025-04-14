@@ -14,7 +14,7 @@ I'm a frontend developer with over **15 years of experience**, specialized in **
 I've led the development of **20+ web and mobile apps**, improving load times by up to **30%**, boosting **user satisfaction by 20%**, and increasing user retention on platforms like Pluto TV.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="300" alt="Frontend Mastery" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdhcDBwZGJjNzh0NWR1Nnp0d2M3cnNzajRmdjZwMzBkdm9razYyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Frontend Mastery" />
 </p>
 
 ---
