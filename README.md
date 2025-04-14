@@ -6,8 +6,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
@@ -81,12 +82,6 @@ I've led the development of **20+ web and mobile apps**, improving load times by
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoTrujillo/LeoTrujillo/output/pacman-contribution-graph.svg">
-</picture>
 
 ### 📈 GitHub Stats
 
