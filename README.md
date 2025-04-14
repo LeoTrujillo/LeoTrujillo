@@ -99,4 +99,8 @@ I've led the development of **20+ web and mobile apps**, improving load times by
 - 🌱 Currently exploring **Elixir** and functional backend development.
 - 🧪 Passionate about testing, clean architecture, and collaborative environments.
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV2Y2NvNWgycmhnd2JzbjhlY2YxZjMzeHc0aTMxbzBqbWlvNXlrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="Frontend Mastery" />
+</p>
+
 ---
